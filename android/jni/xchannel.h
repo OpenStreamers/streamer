@@ -12,7 +12,7 @@
 
 
 
-#include <faac.h>
+//#include <faac.h>
 
 #define XC_PATH_LEN 1024
 //#define XCHANNEL_TIME_BASE   1000000
